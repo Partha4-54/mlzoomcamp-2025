@@ -22,4 +22,4 @@ I use **Kepler telescope data** to build an ML model that can predict whether a 
 **Dataset source:**  
 https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data
 
-Place both files inside the `data/` folder:
+
